@@ -3,7 +3,7 @@
 Register this folder in claude:
 
 ```text
-/plugin marketplace add nhatlongsinh/testsy-claude-plugins
+/plugin marketplace add testsy-ai/testsy-claude-plugins
 /plugin install testsy@testsy
 ```
 
